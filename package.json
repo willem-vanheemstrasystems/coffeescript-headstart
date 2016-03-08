@@ -1,0 +1,22 @@
+{
+  "name": "coffeescript-headstart",
+  "version": "1.0.0",
+  "description": "CoffeeScript - Headstart",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npm install -g coffee-script",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willem-vanheemstrasystems/coffeescript-headstart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willem-vanheemstrasystems/coffeescript-headstart/issues"
+  },
+  "homepage": "https://github.com/willem-vanheemstrasystems/coffeescript-headstart#readme",
+  "dependencies": {
+  }
+}
